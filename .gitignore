@@ -1,0 +1,11 @@
+backend/node_modules
+backend/.env
+backend/prisma/migration
+
+frontend/app/__pycache__
+frontend/interface/__pycache__
+frontend/env/pyvenv.cfg
+frontend/env/Lib
+frontend/env/Include
+frontend/env/share
+frontend/.env
